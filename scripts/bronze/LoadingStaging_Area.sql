@@ -5,6 +5,11 @@ Then
 1. In this first create Temporary tables to Load the data into them and after all checks load them into the main tables.
 2. Before loading into main table cast the date data-type to avoid the date data-type error.
 3. Drop the Temporary Tables.
+
+=========================================================
+Main purpose is to use Stored Procedure 
+For code Reusablitiy, Maintainability, Security,.....
+=========================================================
 */
 
 
