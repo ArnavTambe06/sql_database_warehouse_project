@@ -1,4 +1,7 @@
 /*
+================================
+This File/Step is Optional
+================================
 Creating Staging Area/Tables to avoid data-type errors and to it make more efficient.
 */
 
